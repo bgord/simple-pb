@@ -1,2 +1,3 @@
 # simple-pb
-Simple nodejs terminal progress bar
+
+Simple Node.js terminal progress bar.
