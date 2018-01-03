@@ -1,0 +1,24 @@
+{
+	"name": "simple-pb",
+	"version": "1.0.0",
+	"description": "Simple Node,js terminal progress bar",
+	"main": "index.js",
+	"dependencies": {
+		"chalk": "^2.3.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bgord/simple-pb.git"
+	},
+	"keywords": [],
+	"author": "Bartosz Gordon",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/bgord/simple-pb/issues"
+	},
+	"homepage": "https://github.com/bgord/simple-pb#readme"
+}
