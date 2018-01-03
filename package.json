@@ -1,7 +1,7 @@
 {
 	"name": "simple-pb",
 	"version": "1.0.0",
-	"description": "Simple Node,js terminal progress bar",
+	"description": "Simple Node.js terminal progress bar",
 	"main": "index.js",
 	"dependencies": {
 		"chalk": "^2.3.0"
