@@ -1,5 +1,7 @@
 # simple-pb
 
+[![NPM](https://nodei.co/npm/simple-pb.png)](https://npmjs.org/package/simple-pb)
+
 Simple Node.js terminal progress bar.
 
 ## Usage
